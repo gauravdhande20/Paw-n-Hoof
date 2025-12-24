@@ -1,112 +1,39 @@
-<div align="center">
+# Paw'nHoof
 
-<pre>
-      _    _
-     ( \  / )
-      \ \/ /   
-      /    \    .~~~~.
-     |  /\  |   | 🐾 |
-     |  \/  |   '~~~~'
-      \    /
-       '--'
-   
-   P  A  W ' N   H  O  O  F
-   ~~~~~~~~~~~~~~~~~~~~~~~~
-</pre>
+![Paw'nHoof Logo](Paw'nHoof.png)
 
-### 🖍️ *Turning "Meow" into "Home" & "Woof" into "Love"* 🖍️
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Doodle Vibe](https://img.shields.io/badge/Style-Doodle-ff69b4.svg)](#)
-[![Status](https://img.shields.io/badge/Status-Under_Construction-orange.svg)](#)
-
-</div>
----
-
-## 🧐 **Yeh Kya Hai? (What is this?)**
-
-**Paw'nHoof** सिर्फ़ एक वेबसाइट नहीं, बल्कि बेजुबानों के लिए एक उम्मीद है! 🐶🐱
-
-यह एक ऐसा प्लेटफार्म है जिसे हमने **Stray Animals** (आवारा पशुओं) के लिए बनाया है। यहाँ हम उन प्यारे जानवरों को ढूँढते हैं जिन्हें प्यार और घर की ज़रूरत है, और उन्हें उन लोगों से मिलाते हैं जो उन्हें अपनाना चाहते हैं।
-
-> *"Every paw deserves a loving hand to hold."* 💖
+> **Connecting Paws, Hooves, and Hearts.**
 
 ---
 
-## ✨ **Features (Jo Hum Karte Hai)**
+## 📖 About Paw'nHoof
 
-| Doodle | Feature | Description |
-| :---: | :--- | :--- |
-| 🏠 | **Adoption Hub** | Stray animals के लिए permanent घर ढूँढना। |
-| 🏥 | **Care Corner** | Pet care टिप्स, वैक्सीनेशन और हेल्थ गाइड। |
-| 🍲 | **Food Drive** | आस-पास के strays के लिए खाना अरेंज करना। |
-| 🚨 | **Rescue Alert** | घायल जानवरों के लिए तुरंत मदद (SOS)। |
+**Paw'nHoof** is a dedicated web platform designed to facilitate the adoption and care of stray and domestic animals. 
+
+Our mission is to solve the problem of homeless animals by creating a bridge between compassionate humans and pets in need. Whether you are looking to adopt a new family member, report a stray in need of help, or find resources for pet care, Paw'nHoof provides a single, unified solution.
 
 ---
 
-## 🛠️ **Tech Stack (Jo Humne Use Kiya)**
+## 🌟 Key Features
 
-Humne isse banane ke liye kuch cool tools use kiye hain:
-
-* **Frontend:** ⚛️ React.js (Magic happens here!)
-* **Backend:** 🟢 Node.js & Express
-* **Database:** 🍃 MongoDB
-* **Styling:** 🎨 CSS / Tailwind (For that doodle look)
+* **Adoption Portal:** A streamlined interface to browse profiles of stray animals and pets waiting for a forever home.
+* **Stray Animal Rescue:** Tools to report and track stray animals in your locality to help connect them with shelters or potential adopters.
+* **Pet Care Resources:** Access to guides, tips, and resources for taking care of domestic animals and newly adopted pets.
+* **Community Connection:** A platform for animal lovers to connect, share stories, and support the cause of animal welfare.
 
 ---
 
-## 🚀 **Getting Started (Chalo Shuru Karein)**
+## 🛠 Tech Stack
 
-Agar aap is project ko apne machine par run karna chahte hain, toh ye steps follow karein:
+**Frontend:**
+* HTML5
+* CSS3
+* JavaScript
+* React.js / EJS
 
-1.  **Repo ko Clone karein:**
-    ```bash
-    git clone [https://github.com/your-username/pawnhoof.git](https://github.com/your-username/pawnhoof.git)
-    ```
+**Backend:**
+* Node.js
+* Express.js
 
-2.  **Magic Folder me jaayein:**
-    ```bash
-    cd pawnhoof
-    ```
-
-3.  **Saari Zaroori Cheezein Install karein:**
-    ```bash
-    npm install
-    ```
-
-4.  **Engine Start karein:**
-    ```bash
-    npm start
-    ```
-    *Ab browser open karein aur `localhost:3000` par jaadu dekhein!* ✨
-
----
-
-## 🤝 **Contributing (Madad Karein)**
-
-Aap bhi is nek kaam me haath bata sakte hain!
-
-1.  Is repo ko **Fork** karein 🍴
-2.  Ek nayi **Branch** banayein (`git checkout -b feature/AmazingFeature`)
-3.  Apne changes **Commit** karein (`git commit -m 'Add some AmazingFeature'`)
-4.  Branch ko **Push** karein (`git push origin feature/AmazingFeature`)
-5.  Ek **Pull Request** open karein 📬
-
----
-
-## 📬 **Contact (Baat Karein)**
-
-Project ke baare me kuch puchna hai? Ya bas 'Hi' bolna hai?
-
-* 📧 **Email:** [ayushharinkhere2005@gmail.com](mailto:ayushharinkhere2005@gmail.com)
-* 🐙 **GitHub:** [@AyushHarinkhede](https://github.com/)
-
----
-
-<div align="center">
-
-Made with ❤️ and lots of ☕ for the Animals.
-
-*~ Paw'nHoof Team ~*
-
-</div>
+**Database:**
+* MongoDB
