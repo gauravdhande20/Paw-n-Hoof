@@ -10,7 +10,7 @@ function App() {
         <Route path="/" element={<Navigate to="/adopt" replace />} />
         <Route path="/adopt" element={<Adopt />} />
         <Route path="/contact" element={<ContactUs />} />
-      </Routes>
+      </Routes> 
     </BrowserRouter>
   );
 }
