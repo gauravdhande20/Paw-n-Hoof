@@ -1,7 +1,5 @@
-import "./App.css";
-import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
-import Adopt from "./Components/Adopt";
-import ContactUs from "./Components/ContactUs";
+import React from 'react'
+import Home from './Pages/Home'
 
 function App() {
   return (
@@ -15,4 +13,5 @@ function App() {
   );
 }
 
-export default App;
+export default App
+
